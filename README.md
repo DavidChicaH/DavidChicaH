@@ -1,6 +1,6 @@
 # ![SoftwareSoftwareDevelopmentGIF](https://user-images.githubusercontent.com/47374133/235817651-c0804167-fcea-4894-bd89-78f3a3b5210d.gif)
 # 💅 About Me:
-✅Hi, my name is David, a Front-End Developer from Medellin, Colombia.<br><br>✅I'm a system tecnoligst, and Software Engineer in progres... (currently studying)<br><br>✅Looking for mi first Development Job!<br><br>✅Actually by self-taught learning<br><br>✅Adaptable, persevering, taste for a healthy work environment, assertive communication<br>
+✅Hi, my name is David, a Front-End Developer from Medellin, Colombia.<br><br>✅I'm a system tecnoligst, and Software Engineer in progres... (currently studying)<br><br>✅Actually by self-taught learning<br><br>✅Adaptable, persevering, taste for a healthy work environment, assertive communication<br>
 
 
 ## 🌐 Socials:
